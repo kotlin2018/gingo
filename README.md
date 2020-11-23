@@ -13,9 +13,9 @@ go build
 mv gingo ${GOPATH}/bin
 ````
 
-4、在任意目录下新建项目 (推荐: 在GOPATH/src目录下新建项目)
+4、在任意目录下新建项目 (推荐: 在GOPATH/src目录下新建项目) 默认项目名 ginApp
 ````
-gingo new 项目名称 
+gingo -n 项目名称 
 ````
 5、在新建项目根目录下初始化
 ````
