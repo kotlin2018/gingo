@@ -1,6 +1,6 @@
 1、先下载该项目
 ````
-git clone 
+git clone https://github.com/kotlin2019/gingo.git
 ````
 
 2、编译该项目 
